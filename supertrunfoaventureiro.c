@@ -139,7 +139,7 @@
                 printf ("CARTA 2 \nPais: %s\nEscolha de atributo: %s\nValor do atributo: %.4f\n", pais2, brigaNomeCard2, brigaCard2);
                 printf ("\n");
                 printf ("\n");
-                printf ("CARTA 1 GANHOUU!!");
+                printf ("CARTA 1 GANHOUU!!\n");
             }else{
                 //Exibe ganhador
                 printf ("\n");
@@ -150,7 +150,7 @@
                 printf ("CARTA 2 \nPais: %s\nEscolha de atributo: %s\nValor do atributo: %.4f\n", pais2, brigaNomeCard2, brigaCard2);
                 printf ("\n");
                 printf ("\n");
-                printf ("CARTA 2 GANHOUU!!");
+                printf ("CARTA 2 GANHOUU!!\n");
             }
             
         }else{
@@ -164,7 +164,7 @@
                 printf ("CARTA 2 \nPais: %s\nEscolha de atributo: %s\nValor do atributo: %.4f\n", pais2, brigaNomeCard2, brigaCard2);
                 printf ("\n");
                 printf ("\n");
-                printf ("EMPATOUUU!!");
+                printf ("EMPATOUUU!!\n");
         }
         
         return 0;
